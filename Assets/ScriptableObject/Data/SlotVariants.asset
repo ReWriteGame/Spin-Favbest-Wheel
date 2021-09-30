@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f0cef2ce7c9c7418b8484c60f04c40, type: 3}
+  m_Name: SlotVariants
+  m_EditorClassIdentifier: 
+  iconSlot:
+  - {fileID: 21300000, guid: d69c71dafd318be4f892d2ab3d49614b, type: 3}
+  - {fileID: 21300000, guid: f92012cbf5037a640b2265f8535cb177, type: 3}
+  - {fileID: 21300000, guid: 77a66db6e9b613d479d96cfc9d35c024, type: 3}
+  - {fileID: 21300000, guid: 0f500f265173d43418b3eb1f52ae5216, type: 3}
+  - {fileID: 21300000, guid: 9bc660569b0a2504588575b17276f317, type: 3}
+  - {fileID: 21300000, guid: dace87eb600dece4b85ae6ae814885a1, type: 3}
